@@ -21,3 +21,11 @@ Create a program that simulates the scenario described above using threads. Prin
 3. The system does not stop at any point of time
 4. Shipments are generated at random intervals of time at random station such that the shipment capacity of the station is not overlaoded
 5. Any shipment's source and destination station will always be different
+
+**Compilation**
+
+` make run `
+
+**Execution**
+
+`./a.out`
